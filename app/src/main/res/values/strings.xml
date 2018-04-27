@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeniorHelp</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+</resources>
