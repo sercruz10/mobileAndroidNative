@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergi\.android\build-cache\5311b9ba99ffaa3b2667c528cac4f6ff3d1454b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\classes_ce8014842f81852074f64231e9e9036edd7336c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\teste_2018\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e8aa26576d5dc8220b649a4644ee2f9d13bd6aa">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1311d6c22c61ecab5b301ebadb2e41c08d09ace2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergi\.android\build-cache\5d4071c94980793bf24afcec30a594e7f807230b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\classes_68a1ced1a9e5db099ccf01a025390a287a2df610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergi\.android\build-cache\a5f553197a7ebcfbdf589b27bec2a2588075ee2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\classes_8afc66258843582acd3f9e6d0febf36fd3ec3382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergi\.android\build-cache\126e0e75c8f007a7ac6d3872b3f1b6d878d5c091\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\classes_f3a8ef6512e462208568195f095706e481c25397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_968c242462bb6006939558239fa64dc8a8f72083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sergi\.android\build-cache\5d4071c94980793bf24afcec30a594e7f807230b\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_c410fee1fed4664257123202cf58ad5dfd6ad6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_47f24d5e72a23c1d27290de1ce0fd1ed63541737.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\teste_2018\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Android\teste_2018\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_44186480627fefbb7b397ff2d8051564001c6d36\classes.dex" />
+    </item>
+
+</items>
